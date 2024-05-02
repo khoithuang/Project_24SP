@@ -1,3 +1,4 @@
+#I got help from ChatGPT
 #region imports
 import sys
 from PyQt5 import QtWidgets as qtw
